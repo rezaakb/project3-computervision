@@ -1,1 +1,7 @@
-# project3-computervision
+# Project 3
+
+## Installation
+
+```
+$ pip install opencv-python numpy
+```
