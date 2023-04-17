@@ -1,4 +1,4 @@
-# Project 3
+# CSCI 5722: Project 3 - Homography
 
 ## Installation
 
